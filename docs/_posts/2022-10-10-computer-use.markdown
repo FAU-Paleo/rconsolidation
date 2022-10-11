@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programming start"
+title:  "Basic automation/programming tools and concepts"
 date:   2022-10-10 06:25:27 +0200
 ---
 
@@ -19,5 +19,6 @@ date:   2022-10-10 06:25:27 +0200
 
 ## Scripts
 
-- BASH (in Windows):  [dl_and_resize_bash.sh]({{site.url}}{{site.baseurl}}/scripts/dl_and_resize_bash.sh)
-- Windows Command Prompt:  [dl_and_resize_bash.sh]({{site.url}}{{site.baseurl}}/scripts/dl_and_resize_bash.sh)
+- BASH (Git-BASH in Windows):  [dl_and_resize_bash.sh]({{site.url}}{{site.baseurl}}/data/scripts/dl_and_resize_bash.sh)
+- Windows Command Prompt:  [dl_and_resize_bash.sh]({{site.url}}{{site.baseurl}}/data/scripts/dl_and_resize_bash.sh)
+
