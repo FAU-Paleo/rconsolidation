@@ -2,6 +2,7 @@
 layout: post
 title:  "Lecture 1: Introduction"
 date:   2022-10-12 06:25:27 +0200
+permalink: /lecture1/
 ---
 
 # Schedule for today
