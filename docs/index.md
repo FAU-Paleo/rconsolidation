@@ -1,30 +1,36 @@
 ---
-title: Material for the Computers in Geosciences course
+title: Material for the <i>Consolidation of R programming skills</i> course
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 ---
 
-## Schedule
-
-| Day                    | Time      | Topic                                              | Instructor                  |
-|------------------------|-----------|----------------------------------------------------|-----------------------------|
-| October 10 (Monday)    | Morning   | General introductions, Image processing            | Kocsis, Teichert, Schulbert |
-|                        | Afternoon | Image processing                                   | Teichert, Schulbert         |
-| October 11 (Tuesday)   | Morning   | Image processing                                   | Teichert, Schulbert         |
-|                        | Afternoon | Programming concepts, terminal apps, Markdown      | Kocsis                      |
-| October 12 (Wednesday) | Morning   | Data analysis concepts, introduction to R          | Kiessling                   |
-|                        | Afternoon | Data analysis concepts, introduction to R          | Kiessling                   |
-| October 13 (Thursday)  | Morning   | R basic features (script reading and modification) | Kocsis                      |
-|                        | Afternoon | R basic features (script reading and modification) | Kocsis                      |
-| October 14 (Friday)    | Morning   | R basic features (script reading and modification) | Kocsis                      |
-|                        | Afternoon | R basic features (script reading and modification) | Kocsis                      |
-
 ## Some details 
 
-Place: CIP Room, GeoZentrum Nordbayern  
-Lunch break: 12:00 - 13:00  
-[Link to StudOn](https://www.studon.fau.de/crs1321742.html)  
-Requirements to pass: attendance
+Place: Henkestr. seminar room  
+Time: 12:00 - 13:00  
+[Link to Paleobiology master page](https://palaeobiology.nat.fau.de/program/courses/rcourse/)  
+[Link to StudOn]()  
+[link to Campo](https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107608&periodId=395&navigationPosition=studiesOffered,searchCourses)
+Requirements to pass: a test. 
+
+## Schedule
+
+| Day        | Topic                                                 |
+|------------|-------------------------------------------------------|
+| October 18 | Introductions, logistics, R install, types, operators |
+|            |                                                       |
+
+## Material
+
+This page is used to keep track of our progress through the semester.
+
+The material itself will primarily be a part of Adam's currently written [Comprehensive R course](https://adamkocsis.github.io/rcourse/).
+Both study and exercise material can be found there. 
+
+## The test
+
+The course can only be passed. But you will continue to exercise as long as it needs to get the fundamentals settled in.
+
 
