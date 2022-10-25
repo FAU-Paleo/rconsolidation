@@ -35,6 +35,6 @@ permalink: /lecture1/
 
 # Relevant exercises
 
-- [Exerise on operators](https://adamkocsis.github.io/rcourse/Exercises/2022-10-18a_operator_types/)
+- [Exerise on operators](https://adamkocsis.github.io/rkheion/Exercises/2022-10-18a_operator_types/)
 
 

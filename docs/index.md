@@ -7,7 +7,7 @@ layout: home
 
 ### Logistics 
 
-- Place: Henkestr. seminar room  
+- Place: Henkestr. 91 seminar room  
 - Time: Tuesdays from 09:00 to 10:30  
 - Zoom link is on StudOn
 
@@ -27,6 +27,7 @@ layout: home
 | Day        | Topic                                                                                                         |
 |------------|---------------------------------------------------------------------------------------------------------------|
 | October 18 | [Lecture 1]({{site.url}}{{site.baseurl}}lecture1/) - Introductions, logistics, installing R, types, operators |
+| October 25 | [Lecture 2]({{site.url}}{{site.baseurl}}lecture2/) - Control Flow basics                                      |
 
 * * *
 
@@ -34,7 +35,7 @@ layout: home
 
 This page is used to keep track of our progress through the semester.
 
-The material itself will primarily be a part of Adam's currently written [Comprehensive R course](https://adamkocsis.github.io/rcourse/).
+The material itself will primarily be a part of Adam's currently written [Comprehensive R course](https://adamkocsis.github.io/rkheion/).
 Both study and exercise material can be found there. 
 
 
