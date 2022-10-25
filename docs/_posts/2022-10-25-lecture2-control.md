@@ -27,8 +27,16 @@ I would like you to
 3. and develop a habit to practice **every day** for 2-10 minutes.  
 
 
-# Relevant exercises
+# Material for today
+- [Special values](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/02_types_and_variables/special_values.html)
+- [Type detector functions](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/02_types_and_variables/type_predicates.html)
+- [String basics](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/03_character_strings/simple_strings.html)
+- [String operations](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/03_character_strings/basic_operations.html)
+- [First conditionals](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/04_conditionals/if-statements.html)
 
-- [](https://adamkocsis.github.io/rcourse/Exercises/2022-10-18a_operator_types/)
+# Exercises
+- [Expansions of statements](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24a_expansion.html)
+- [Some Boolean algebra](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24c_boolean_algebra.html)
+- [Messaging pasted values](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24b_message_paste.html)
 
 
