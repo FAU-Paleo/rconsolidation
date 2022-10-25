@@ -35,8 +35,10 @@ I would like you to
 - [First conditionals](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/04_conditionals/if-statements.html)
 
 # Exercises
-- [Expansions of statements](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24a_expansion.html)
 - [Some Boolean algebra](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24c_boolean_algebra.html)
 - [Messaging pasted values](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24b_message_paste.html)
+
+# Homework
+- [Expansions of statements](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24a_expansion.html)
 
 
