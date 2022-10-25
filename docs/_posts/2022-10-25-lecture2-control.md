@@ -28,6 +28,7 @@ I would like you to
 
 
 # Material for today
+- [Logical operators](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/02_types_and_variables/logical_operators.html)
 - [Special values](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/02_types_and_variables/special_values.html)
 - [Type detector functions](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/02_types_and_variables/type_predicates.html)
 - [String basics](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/03_character_strings/simple_strings.html)
