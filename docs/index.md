@@ -2,9 +2,9 @@
 layout: page 
 ---
 
-![img]({{site.url}}{{site.baseurl}}assets/R_logo.svg.png)
-
 ## **Course Information**
+
+![img]({{site.url}}{{site.baseurl}}assets/R_logo.svg.png)
 
 ### Logistics 
 
