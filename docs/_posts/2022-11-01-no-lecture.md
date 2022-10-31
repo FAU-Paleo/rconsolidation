@@ -18,6 +18,7 @@ permalink: /no-lecture1/
 - [Messaging the length of character strings](https://adamkocsis.github.io/rkheion/Exercises/2022-10-27b_messaging_nchar.html)
 - [Compliment based on character length](https://adamkocsis.github.io/rkheion/Exercises/2022-10-27c_if_message_nchar.html)
 - [Message based on calculation result](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/04_conditionals/else-statements.html)
+- [Correcting syntax of if statements](https://adamkocsis.github.io/rkheion/Exercises/2022-10-27d_if_syntax.html)
 
 
 

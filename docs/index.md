@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page 
 ---
 
 
@@ -28,8 +28,7 @@ layout: home
 |------------|---------------------------------------------------------------------------------------------------------------|
 | October 18 | [Lecture 1]({{site.url}}{{site.baseurl}}lecture1/) - Introductions, logistics, installing R, types, operators |
 | October 25 | [Lecture 2]({{site.url}}{{site.baseurl}}lecture2/) - Control Flow basics                                      |
-| November 1 | [No lecture!]({{site.url}}{{site.baseurl}}no-lecture1/) - Some homework                                          |
-|            |                                                                                                               |
+| November 1 | [No lecture!]({{site.url}}{{site.baseurl}}no-lecture1/) - Some homework                                       |
 
 * * *
 
