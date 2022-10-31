@@ -8,7 +8,7 @@ layout: home
 ### Logistics 
 
 - Place: Henkestr. 91 seminar room  
-- Time: Tuesdays from 09:00 to 10:30  
+- Time: Tuesdays from 09:15 to 10:45  
 - Zoom link is on StudOn
 
 ### Links
@@ -28,6 +28,8 @@ layout: home
 |------------|---------------------------------------------------------------------------------------------------------------|
 | October 18 | [Lecture 1]({{site.url}}{{site.baseurl}}lecture1/) - Introductions, logistics, installing R, types, operators |
 | October 25 | [Lecture 2]({{site.url}}{{site.baseurl}}lecture2/) - Control Flow basics                                      |
+| November 1 | [No lecture!]({{site.url}}{{site.baseurl}}no-lecture1/) - Some homework                                          |
+|            |                                                                                                               |
 
 * * *
 
