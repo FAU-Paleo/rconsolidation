@@ -2,7 +2,7 @@
 layout: page 
 ---
 
-![img](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
+![img]({{site.url}}{{site.baseurl}}assets/R_logo.svg.png)
 
 ## **Course Information**
 
