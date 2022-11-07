@@ -20,7 +20,7 @@ layout: page
 
 ### Requirements
 
-- The requirements to pass is a test. 
+- The requirement to pass is a test (first on **2022-02-07**). 
 - Failure is unacceptable, this course can only be passed. But you will continue to exercise as long as it needs to get the fundamentals sink in.
 
 ### Schedule
@@ -30,6 +30,7 @@ layout: page
 | October 18 | [Lecture 1]({{site.url}}{{site.baseurl}}lecture1/) - Introductions, logistics, installing R, types, operators |
 | October 25 | [Lecture 2]({{site.url}}{{site.baseurl}}lecture2/) - Control Flow basics                                      |
 | November 1 | [No lecture!]({{site.url}}{{site.baseurl}}no-lecture1/) - Some homework                                       |
+| November 8 | [Lecture 3]({{site.url}}{{site.baseurl}}lecture3/) - Functions                                                |
 
 * * *
 
