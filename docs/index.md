@@ -25,12 +25,13 @@ layout: page
 
 ### Schedule
 
-| Day        | Topic                                                                                                         |
-|------------|---------------------------------------------------------------------------------------------------------------|
-| October 18 | [Lecture 1]({{site.url}}{{site.baseurl}}lecture1/) - Introductions, logistics, installing R, types, operators |
-| October 25 | [Lecture 2]({{site.url}}{{site.baseurl}}lecture2/) - Control Flow basics                                      |
-| November 1 | [No lecture!]({{site.url}}{{site.baseurl}}no-lecture1/) - Some homework                                       |
-| November 8 | [Lecture 3]({{site.url}}{{site.baseurl}}lecture3/) - Functions                                                |
+| Day         | Topic                                                                                                         |
+|-------------|---------------------------------------------------------------------------------------------------------------|
+| October 18  | [Lecture 1]({{site.url}}{{site.baseurl}}lecture1/) - Introductions, logistics, installing R, types, operators |
+| October 25  | [Lecture 2]({{site.url}}{{site.baseurl}}lecture2/) - Control Flow basics                                      |
+| November 1  | [No lecture!]({{site.url}}{{site.baseurl}}no-lecture1/) - Some homework                                       |
+| November 8  | [Lecture 3]({{site.url}}{{site.baseurl}}lecture3/) - Functions                                                |
+| November 15 | [Lecture 4]({{site.url}}{{site.baseurl}}lecture4/) - Iteration                                                |
 
 * * *
 
