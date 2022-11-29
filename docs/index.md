@@ -33,6 +33,8 @@ layout: page
 | November 8  | [Lecture 3]({{site.url}}{{site.baseurl}}lecture3/) - Functions                                                |
 | November 15 | [Lecture 4]({{site.url}}{{site.baseurl}}lecture4/) - Iteration                                                |
 | November 22 | [Lecture 5]({{site.url}}{{site.baseurl}}lecture5/) - Iteration and plotting                                   |
+| November 29 | [No lecture]({{site.url}}{{site.baseurl}}no-lecture2/) - Vector combination and paths                         |
+
 
 * * *
 
