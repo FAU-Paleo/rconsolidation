@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Basic Functions"
+title:  "Lecture 3: Basic Functions"
 date:   2022-10-30 06:25:27 +0200
 permalink: /lecture3/
 ---
