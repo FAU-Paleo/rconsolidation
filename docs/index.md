@@ -35,6 +35,7 @@ layout: page
 | November 22 | [Lecture 5]({{site.url}}{{site.baseurl}}lecture5/) - Iteration and plotting                                   |
 | November 29 | [No lecture]({{site.url}}{{site.baseurl}}no-lecture2/) - Vector combination and paths                         |
 | December 6  | [Lecture 6]({{site.url}}{{site.baseurl}}lecture6/) - Repetition and exercises.                                |
+| December 13 | [Lecture 7]({{site.url}}{{site.baseurl}}lecture7/) -  Vectors-replicates, sequences and numeric subscripts    |
 
 
 * * *
