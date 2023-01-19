@@ -37,7 +37,8 @@ layout: page
 | December 6  | [Lecture 6]({{site.url}}{{site.baseurl}}lecture6/) - Repetition and exercises.                                |
 | December 13 | No lecture because of the *Barbarafeier*                                                                      |
 | December 20 | [Lecture 7]({{site.url}}{{site.baseurl}}lecture7/) - Vectors: replicates, sequences and numeric subscripts    |
-| January 16  | [Lecture 8]({{site.url}}{{site.baseurl}}lecture8/) - For loops, vectorization                                 |
+| January 17  | [Lecture 8]({{site.url}}{{site.baseurl}}lecture8/) - For loops, vectorization                                 |
+| January 19  | [Lecture 9]({{site.url}}{{site.baseurl}}lecture9/) - Practicing                                               |
 
 
 * * *
