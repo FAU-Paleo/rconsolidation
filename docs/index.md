@@ -39,7 +39,9 @@ layout: page
 | December 20 | [Lecture 7]({{site.url}}{{site.baseurl}}lecture7/) - Vectors: replicates, sequences and numeric subscripts    |
 | January 17  | [Lecture 8]({{site.url}}{{site.baseurl}}lecture8/) - For loops, vectorization                                 |
 | January 19  | [Lecture 9]({{site.url}}{{site.baseurl}}lecture9/) - Practicing                                               |
-| January 23  | [Lecture 10]({{site.url}}{{site.baseurl}}lecture10/) - Distributions and functions.               |
+| January 23  | [Lecture 10]({{site.url}}{{site.baseurl}}lecture10/) - Distributions and functions.               
+|
+| January 23  | [Lecture 31]({{site.url}}{{site.baseurl}}lecture11/) - Variance.               
 
 
 * * *
