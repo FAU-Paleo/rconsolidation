@@ -20,8 +20,7 @@ layout: page
 
 ### Requirements
 
-- The requirement to pass is a test (first on **2022-02-14**). 
-- Failure is unacceptable, this course can only be passed. But you will continue to exercise as long as it needs to get the fundamentals sink in.
+- Failure is unacceptable, this course can only be passed. But you will continue to exercise as long as it takes to solve basic exercises.
 
 ### Schedule
 
@@ -39,10 +38,10 @@ layout: page
 | December 20 | [Lecture 7]({{site.url}}{{site.baseurl}}lecture7/) - Vectors: replicates, sequences and numeric subscripts    |
 | January 17  | [Lecture 8]({{site.url}}{{site.baseurl}}lecture8/) - For loops, vectorization                                 |
 | January 19  | [Lecture 9]({{site.url}}{{site.baseurl}}lecture9/) - Practicing                                               |
-| January 24  | [Lecture 10]({{site.url}}{{site.baseurl}}lecture10/) - Distributions and functions                           |
-| January 26  | [Lecture 11]({{site.url}}{{site.baseurl}}lecture11/) - More practicing 
-|
-| January 31  | [Lecture 12]({{site.url}}{{site.baseurl}}lecture12/) - Variance and standard deviation                                       
+| January 24  | [Lecture 10]({{site.url}}{{site.baseurl}}lecture10/) - Distributions and functions                            |
+| January 26  | [Lecture 11]({{site.url}}{{site.baseurl}}lecture11/) - More practicing                                        |
+| January 31  | [Lecture 12]({{site.url}}{{site.baseurl}}lecture12/) - Variance and standard deviation                        |
+| February 16 | [Practice session]({{site.url}}{{site.baseurl}}practice1/) - Exericise/testing session                        |
 
 * * *
 
