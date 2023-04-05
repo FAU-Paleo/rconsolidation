@@ -41,8 +41,8 @@ layout: page
 | January 24  | [Lecture 10]({{site.url}}{{site.baseurl}}lecture10/) - Distributions and functions                            |
 | January 26  | [Lecture 11]({{site.url}}{{site.baseurl}}lecture11/) - More practicing                                        |
 | January 31  | [Lecture 12]({{site.url}}{{site.baseurl}}lecture12/) - Variance and standard deviation                        |
-| February 16 | [Practice session]({{site.url}}{{site.baseurl}}practice1/) - Exericise/testing session                        |
-| April 4     | [Practice session]({{site.url}}{{site.baseurl}}practice2/) - Exericise session                                |
+| February 16 | [Practice session]({{site.url}}{{site.baseurl}}practice1/) - Exercise/testing session                        |
+| April 4     | [Practice session]({{site.url}}{{site.baseurl}}practice2/) - Exercise session                                |
 
 * * *
 
