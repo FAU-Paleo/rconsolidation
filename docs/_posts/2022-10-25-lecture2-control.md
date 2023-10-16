@@ -2,7 +2,7 @@
 layout: post
 title:  "Lecture 2: Control flow basics"
 date:   2022-10-25 06:25:27 +0200
-permalink: /lecture2/
+permalink: /2022/lecture2/
 ---
 
 # Schedule for today

@@ -2,7 +2,7 @@
 layout: post
 title:  "No Lecture on November 1!"
 date:   2022-10-30 06:25:27 +0200
-permalink: /no-lecture1/
+permalink: /2022/no-lecture1/
 ---
 
 # About

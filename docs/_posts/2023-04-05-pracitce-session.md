@@ -2,7 +2,7 @@
 layout: post
 title:  "Practice session"
 date:   2023-04-05
-permalink: /practice2/
+permalink: /2022/practice2/
 ---
 
 # Homework from previous session 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Lecture 3: Basic Functions"
 date:   2022-10-30 06:25:27 +0200
-permalink: /lecture3/
+permalink: /2022/lecture3/
 ---
 
 # About
