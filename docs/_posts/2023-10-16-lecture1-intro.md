@@ -8,7 +8,7 @@ permalink: /2023/lecture1/
 
 - Class Logistics: time and place
 - R in the Paleo program
-- Material for the course: on the Rkheion
+- Material for the course: on the [R-kheion](https://adamkocsis.github.io/rkheion/)
 - Requirements to pass
 
 
@@ -47,4 +47,3 @@ permalink: /2023/lecture1/
 - [Expanding R statements](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24a_expansion.html)
 - [Exercise on operators](https://adamkocsis.github.io/rkheion/Exercises/2022-10-18a_operator_types.html)
 - [Type detection](https://adamkocsis.github.io/rkheion/Exercises/2022-10-27a_type_detection.html)
-
