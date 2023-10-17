@@ -28,12 +28,13 @@ permalink: /2023/lecture1/
 | 3        | Macroecology                                |
 
 
-# Material
+## Material
 
 - Types and operators - live at the seminar room
-- [Exercise with Boolean algebra](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24c_boolean_algebra.html)
 
-* * * 
+## Downloads
+- [Cooper and Hsing, 2017 - Guide to reproducible code in Ecology and Evolution]({{site.url}}{{site.baseurl}}/data/papers/Cooper and Hsing, 2017 - Guide to reproducible code.pdf)
+
 
 ## Homework 
 
@@ -44,6 +45,7 @@ permalink: /2023/lecture1/
 
 ### Exercise
 
+- [Exercise with Boolean algebra](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24c_boolean_algebra.html)
 - [Expanding R statements](https://adamkocsis.github.io/rkheion/Exercises/2022-10-24a_expansion.html)
 - [Exercise on operators](https://adamkocsis.github.io/rkheion/Exercises/2022-10-18a_operator_types.html)
 - [Type detection](https://adamkocsis.github.io/rkheion/Exercises/2022-10-27a_type_detection.html)
