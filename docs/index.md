@@ -2,7 +2,8 @@
 layout: page 
 ---
 
-![img](https://palaeobiology.nat.fau.de/images/courses/big/r.jpg)
+![img]({{site.url}}{{site.baseurl}}assets/r.jpg)
+<small> Image from <i>Thinkstock</i>.</small>
 
 
 ## About
