@@ -29,8 +29,8 @@ date:   2023-12-05 03:25:27 +0100
 ### Self-study - Vectors and for
 
 - [Matrices](https://adamkocsis.github.io/rkheion/2_Advanced_Beginner/10_matrices_and_arrays/matrices.html)
-- [Shuffling and sampling](https://adamtkocsis.com/rkheion/2_Advanced_Beginner/12_randomness/sample.html)
-- [Random number generation](https://adamtkocsis.com/rkheion/2_Advanced_Beginner/12_randomness/r-dist.html)
+- [Shuffling and sampling](https://adamtkocsis.com/rkheion/2_Advanced_Beginner/11_randomness/sample.html)
+- [Random number generation](https://adamtkocsis.com/rkheion/2_Advanced_Beginner/11_randomness/r-dist.html)
  
 ### Exercises 
 
