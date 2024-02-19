@@ -17,3 +17,11 @@ This is a false exam. It will not be graded, the purpose is to give you feeback 
 
 - Please send the R code that you have written to Adam.
 
+
+# Solutions
+
+You can download a correct solution from here: [2024-02-08_sepkoski_mollusk.zip]({{site.url}}{{site.baseurl}}/data/scripts/2023winter/2024-02-08_sepkoski_mollusk.zip)
+
+
+
+
