@@ -16,4 +16,3 @@ permalink: /2024/pseudoexam/
 | Exercises                                                                                                       | Solution |
 |-----------------------------------------------------------------------------------------------------------------|----------|
 | **PSEUDOEXAM**: [ PARED database ](https://adamtkocsis.com/rkheion/Exercises/2025-02-03_pared_basics.html) |          |
-|                                                                                                                 |          |
