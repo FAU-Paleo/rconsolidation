@@ -28,5 +28,6 @@ Everything found on this webpage is licensed with CC-BY 4.0.
 | 2022 | October 18 - February 8 | Ádám Kocsis, Rachel Warnock | [Material of the 2022 course]({{site.url}}{{site.baseurl}}2022/) |
 | 2023 | October 17 - February 7 | Ádám Kocsis, Rachel Warnock | [Material of the 2023 course]({{site.url}}{{site.baseurl}}2023/) |
 | 2024 | October 14 - February 4 | Ádám Kocsis, Rachel Warnock | [Material of the 2024 course]({{site.url}}{{site.baseurl}}2024/) |
+| 2025 | October 13 - February 3 | Ádám Kocsis, Rachel Warnock | [Material of the 2025 course]({{site.url}}{{site.baseurl}}2025/) |
 
 

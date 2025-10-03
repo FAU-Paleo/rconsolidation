@@ -17,7 +17,7 @@ title: Consolidation of R programming skills
 email: 
 description: Course material
 baseurl: "/rconsolidation/" # the subpath of your site, e.g. /blog
-url: "https://adamkocsis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fau-paleo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: adamkocsis
 
