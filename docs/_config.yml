@@ -19,7 +19,7 @@ description: Course material
 baseurl: "/rconsolidation/" # the subpath of your site, e.g. /blog
 url: "https://fau-paleo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username: adamkocsis
+github_username: fau-paleo
 
 # Build settings
 markdown: kramdown
